@@ -1,0 +1,1 @@
+This contains the code used to generate the steady states displayed in Section 3 of 'A fundamental model based on thermal balances for core oil temperature and wax layer development with axial distance in a pipe transporting heated oil'.
